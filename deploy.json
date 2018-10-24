@@ -1,0 +1,8 @@
+{
+  "PROJECT_NAME": "search_restapi",
+  "REMOTE_HOST": "api_04",
+  "REMOTE_HOST_SSH": "192.168.56.104",
+  "REMOTE_USER": "apidev",
+  "REMOTE_PASSWORD": "apidev!",
+  "DEPLOY_PATH": "deploy"
+}
